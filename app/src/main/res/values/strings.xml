@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">منادی</string>
+    <string name="welcome_text">نرم‌افزار ارسال ندا</string>
+    <string name="get_message_text">لطفا در کادر بالا توکن و در کادر پایین پیام موردنظر را وارد کرده و سپس ارسال را بزنید</string>
+</resources>
